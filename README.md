@@ -3,7 +3,7 @@ Professional WordPress Website running Docker Containers, Wordpress, Nginx, MySQ
 
 The files in this repository were used to configure the network depicted below.
 
-![images/Topology.PNG]
+![images\Topology.PNG]
 
 These files have been used to generate a Wordpress website on Linode.   
 
