@@ -1,4 +1,4 @@
-# Professional Resume Site Deployment
+# Wordpress with Containers
 Professional WordPress Website running Docker Containers, Wordpress, Nginx, MySQL, &amp; Certbot
 
 The files in this repository were used to configure the network depicted below.
@@ -61,16 +61,4 @@ SSH into Web01, and follow the steps below:
 - Run docker-compose up
 - Check website at http://YourEXTIP
 
-
-
-
-
-
-
-
-
-
-
-
-
-# prof-resume-site
+# wordpress-containers
